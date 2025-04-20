@@ -1,9 +1,9 @@
 # Akademisk projektbilbiotek
 
-### Empirisk analyse af indkomstulighed
+### **Empirisk analyse af indkomstulighed**
 Empirisk afprøvning af Thomas Pikettys teori om indkomstulighed med Danmark som udgangspunkt.
 
-### Indkomstfordeling og vækstregimer: En sammenhængende analyse af økonomiske faktorer og sandsynligheden for løn- eller profitdrevet vækst
+### **Indkomstfordeling og vækstregimer: En sammenhængende analyse af økonomiske faktorer og sandsynligheden for løn- eller profitdrevet vækst**
 Studie af 39 landes vækstregimer og økonomiske faktorer, der præger sandsynligheden for løn- eller profitdrevet vækstregime.
 
 ### Speciale: EJENDOMSVURDERINGER - En undersøgelse af et vurderingssystem baseret på neurale netværk
